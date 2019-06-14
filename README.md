@@ -1,2 +1,7 @@
 # Ecommerce-clothing-recommendation-prediction
-Predicting Ecommerce cloth recommendation
+
+** Goal : Predicting Ecommerce cloth recommendation **
+
+** Dataset ** : [Kaggle women ecommerce clothing review](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
+
+
