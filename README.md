@@ -12,12 +12,12 @@
 
 ## Methodology 
 
-1. 'Suggesting the buessiness to significant words for recommended products' - using TF-IDF in review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
-2. 'Suggesting the buessiness to important categories and influencing factors in recommendedation' - using bag of words in product categories, building categorical model with reviews to predict recommendation then finding more weighted categories.
-3. 'What kind of categories people have more negative reviews and what are they try to say' - Apply sentimental analysis and find top TF-IDF in negative sentence and do topic modeling
-4. 'Correlation between Positive review and Recommendation' - using TF-IDF in positive review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
+1. `Suggesting the buessiness to significant words for recommended products` - using TF-IDF in review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
+2. `Suggesting the buessiness to important categories and influencing factors in recommendedation` - using bag of words in product categories, building categorical model with reviews to predict recommendation then finding more weighted categories.
+3. `What kind of categories people have more negative reviews and what are they try to say` - Apply sentimental analysis and find top TF-IDF in negative sentence and do topic modeling
+4. `Correlation between Positive review and Recommendation` - using TF-IDF in positive review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
 
-* Optional : using Words embedding to combine the features [keras] *
+*Optional : using Words embedding to combine the features [keras]*
 
 ## Aim for each phase 
 
