@@ -1,6 +1,6 @@
 # Ecommerce-clothing-recommendation-prediction
 
-**Goal : Predicting Ecommerce cloth Recommendation & Analyzing the reviews **
+**Goal : Predicting Ecommerce cloth Recommendation & Analyzing the reviews**
 
 **Dataset** : [Kaggle women ecommerce clothing review](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 ## Motivation
@@ -24,7 +24,7 @@
 - **Data Analysis :** Experiment our Business hypothesis with dataset. Find the pattens in dataset. Plan for Feature Engineering.
 - **Data Preprocess :** Based on insights, start with preprocessing. Apply all regular NLP feature engineering (Tokens, stemming, lower letter and trimming). Apply TF-IDF & Bag of words for each words
 - **Model Building & Validation :** Apply all possible models and validate with that. Validate with Cross matrix initially. It is efficient and easy to interpret more metrics.
-- **Business Inference : ** Try to interpret the results from modelt result. for `objective 3` , use topic modelling and extract the topics.
+- **Business Inference :** Try to interpret the results from modelt result. for `objective 3` , use topic modelling and extract the topics.
 
 ## Plan
 
