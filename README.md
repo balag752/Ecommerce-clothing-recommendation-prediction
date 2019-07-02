@@ -28,24 +28,24 @@
 
 ## Plan
 
-|SI No|Planned Date|Topic|Started date|End date|Status|User|
+|SI No|Plan Date|Topic|Start date|End date|Status|User|
 |---|---|---|---|---|---|---|
-|1||Get insights of data & Better Business understanding|||YTS|Balaji|
-|2||Get insights of data & Better Business understanding|||YTS|Karuna|
-|3||Discuss about insights|||YTS|Balaji & Karuna
-|3||Plan for preprocessing & Model selection|||YTS|Balaji & Karuna|
-|4||Feature Engineering 1|||YTS|Balaji|
-|8||Feature Engineering 1|||YTS|Karuna|
-|5||Discussion and planning |||YTS|Balaji & Karuna|
-|6||Feature Engineering 2|||YTS|Karuna|
-|7||Feature Engineering 2|||YTS|Balaji|
-|8||Discussion and planning |||YTS|Balaji & Karuna|
-|9||Apply all models|||YTS|Balaji|
-|10||Apply all models|||YTS|Karuna|
-|11||Discussion and planning |||YTS|Balaji & Karuna|
-|12||Validating the models|||YTS|Balaji|
-|13||Validating the models|||YTS|Karuna|
-|14||Discussion and planning |||YTS|Balaji & Karuna|
-|15||Buissness  inference|||YTS|Balaji|
-|16||Buissness  inference|||YTS|Karuna|
-|17||Discussion and planning |||YTS|Balaji & Karuna|
+|1|09.07|Get insights of data & Better Business understanding|||YTS|Balaji|
+|2|09.07|Get insights of data & Better Business understanding|||YTS|Karuna|
+|3|09.07|Discuss about insights|||YTS|Balaji & Karuna
+|3|10.07|Plan for preprocessing & Model selection|||YTS|Balaji & Karuna|
+|4|30.07|Feature Engineering 1|||YTS|Balaji|
+|8|30.07|Feature Engineering 1|||YTS|Karuna|
+|5|30.07|Discussion and planning |||YTS|Balaji & Karuna|
+|6|16.08|Feature Engineering 2|||YTS|Karuna|
+|7|16.08|Feature Engineering 2|||YTS|Balaji|
+|8|16.08|Discussion and planning |||YTS|Balaji & Karuna|
+|9|19.08|Apply all models|||YTS|Balaji|
+|10|19.08|Apply all models|||YTS|Karuna|
+|11|19.08|Discussion and planning |||YTS|Balaji & Karuna|
+|12|22.08|Validating the models|||YTS|Balaji|
+|13|22.08|Validating the models|||YTS|Karuna|
+|14|22.08|Discussion and planning |||YTS|Balaji & Karuna|
+|15|24.08|Buissness  inference|||YTS|Balaji|
+|16|24.08|Buissness  inference|||YTS|Karuna|
+|17|24.08|Discussion and planning |||YTS|Balaji & Karuna|
