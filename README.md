@@ -13,19 +13,23 @@
 ## Methodology 
 
 0. **`Sentiment Analysis`** -  Finding the sentiments for reviews using lexical sentiment analysis approach.
-⋅⋅⋅Determine the approch - [Sentiment-analysis-tools-overview](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c), [TextBlob](https://textblob.readthedocs.io/en/dev/)
+
+- Determine the approch - [Sentiment-analysis-tools-overview](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c), [TextBlob](https://textblob.readthedocs.io/en/dev/)
 - Find a way to validate  
+- Find correlation between sentiment result and postitive count feature
+
+
 1. **`Suggesting the business to significant words for recommended products`** - using TF-IDF in review extraction, building categorical model with reviews to predict recommendation then finding more weighted words.  
 
-⋅⋅⋅Try to experiment with the different models and validate (Make sure model results are interpretable).  
+- Experiment with the different models and validate (Make sure model results are interpretable).  
 
 2. **`Suggesting the business to important categories and influencing factors in recommendedation`** - using bag of words in product categories, building categorical model with reviews to predict recommendation then finding more weighted categories.  
 
-⋅⋅⋅Try to experiment with the different models and validate (Make sure model results are interpretable).  
+- Experiment with the different models and validate (Make sure model results are interpretable).  
 
-3. **`What kind of categories people have more negative reviews and what are they try to say`** - Apply sentimental analysis and find top TF-IDF in negative sentence and do topic modeling
+3. **`What kind of categories people have more negative reviews and what are they try to say`** - Filter top TF-IDF in negative sentence and Experiment with topic modeling
 
-4. **`Correlation between Positive review and Recommendation`** - using TF-IDF in positive review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
+4. **`Correlation between positive review and Recommendation`** - using TF-IDF in positive review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
 
 *Optional : using Words embedding to combine the features [keras]*
 
