@@ -13,7 +13,7 @@
 ## Methodology 
 
 0. `Sentiment Analysis` -  Finding the sentiments for reviews using lexical sentiment analysis approach.
-- Determine the approch - [Sentiment-analysis-tools-overview] (https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c), [TextBlob] (https://textblob.readthedocs.io/en/dev/)
+- Determine the approch - [Sentiment-analysis-tools-overview](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c), [TextBlob](https://textblob.readthedocs.io/en/dev/)
 - Find a way to validate
 1. `Suggesting the business to significant words for recommended products` - using TF-IDF in review extraction, building categorical model with reviews to predict recommendation then finding more weighted words. 
 2. `Suggesting the business to important categories and influencing factors in recommendedation` - using bag of words in product categories, building categorical model with reviews to predict recommendation then finding more weighted categories.
