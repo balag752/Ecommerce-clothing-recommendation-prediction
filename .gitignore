@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+src/GoogleNews-vectors-negative300.bin.gz
